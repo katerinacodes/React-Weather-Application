@@ -1,0 +1,38 @@
+.Weather-app{
+    border: 2px solid gray;
+    margin: 50px 300px;
+    padding: 10px 50px;
+    border-radius: 20px;
+    box-shadow: 0 8px 6px -6px black;
+    
+}
+
+input {
+    font-size: larger;
+    border-color:black;
+    margin-top:5px;
+   padding:10px 50px;
+   border-radius: 5PX;
+}
+button {
+    font-size: larger;
+    border-color: blueviolet;
+    margin-top:5px;
+    margin-left:5px;
+   padding: 9px 30px;
+   border-radius: 5PX;
+   color: white;
+   background-color: blueviolet;
+   
+}
+
+ul{
+    font-weight:500;
+    list-style:none;
+    
+}
+
+.day{
+position:relative;
+right:30px;
+}
