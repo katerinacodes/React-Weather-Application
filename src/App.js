@@ -23,7 +23,7 @@ function App() {
           </a>{" "}
           and{" "}
           <a
-            href=""
+            href="https://github.com/katerinacodes/react-weather-application"
             target="_blank"
             rel="noopener noreferrer"
           >
