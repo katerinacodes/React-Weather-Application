@@ -23,7 +23,7 @@ function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://github.com/katerinacodes/react-weather-application"
+            href="https://master--sweet-kitten-613c15.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
