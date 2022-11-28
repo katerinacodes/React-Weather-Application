@@ -1,0 +1,9 @@
+.temperature{font-size: 90px;
+    position: relative;
+margin-top: 200px;}
+
+.celcius{
+   font-size: 30px;
+   position: relative;
+   bottom:40px;
+}
