@@ -18,7 +18,8 @@ export default function  Info(props) {
         <li className="text-capitalize">{props.data.description}</li>
       </ul>
       </div>
-      <div className="col-6">  <Temperature temp={props.data.temperature}/></div>
+      <div className="col-6">  <Temperature temp={props.data.temperature}/>
+      </div>
     
       </div>
       <div className="row mt-3">
@@ -29,7 +30,7 @@ export default function  Info(props) {
           src={`http://openweathermap.org/img/wn/${icon
           }@2x.png`}
           alt=""
-          width="100"
+          width="140"
         /></div>
             
           </div>

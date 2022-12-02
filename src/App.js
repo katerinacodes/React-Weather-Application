@@ -2,12 +2,14 @@
 import './App.css';
 import React from "react";
 import Weather from "./Weather";
+
 function App() {
   return (
     <div className="App">
       
             <Weather defaultCity="New York"/>
-            
+          <br/>
+          
             <footer>
           This project was coded by{" "}
           
